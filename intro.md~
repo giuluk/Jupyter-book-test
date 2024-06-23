@@ -1,0 +1,15 @@
+# Soluzioni razionali delle equazioni di 2° grado
+
+## Disclaimer
+Ho scritto questi appunti per provare Jupyter Book. Si tratta di una stesura fatta senza alcun controllo a posteriori.
+
+## A chi è destinato
+Questi appunti sono destinati a studenti di classe 1ª di scuola secondaria di 2° grado. L'obiettivo è quello di introdurre gli studenti alla risoluzione di equazioni di 2° grado, prima dello studio dei *radicali* e quindi prima di estendere i numeri razionali ai numeri reali.
+
+## Prerequisiti
+- Insieme $\mathbb{Q}$ dei numeri razionali
+- Scomposizione di polinomi su $\mathbb{Q}$
+- Equazioni di 1° grado
+
+```{tableofcontents}
+```

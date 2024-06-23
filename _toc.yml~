@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Ciao
+    numbered: True
+    chapters:
+    - file: capitolo-01
+    - file: capitolo-02
+    - file: notebooks
+    - file: markdown-notebooks
