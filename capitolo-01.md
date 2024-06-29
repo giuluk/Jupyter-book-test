@@ -67,4 +67,4 @@ Ricapitolando:
 -\dfrac{6}{5}x^2+4x-\dfrac{2}{3}=0 \Leftrightarrow 9x^2-30x+5=0
 ```
 
-```
+````
