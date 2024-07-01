@@ -8,7 +8,7 @@ by all accounts. And then they sulk."
 
 ## Forma canonica delle equazioni di 2° grado
 ````{prf:definition}
-Una **equazione di 2° grado** (o **quadratica**) è un'[equazione polinomiale](https://it.wikipedia.org/wiki/Equazione_algebrica) il cui grado massimo dell'incognita è $2$. In generale un'equazione di 2° grado può essere ricondotta nella forma:
+Una **equazione di 2° grado** (o **quadratica**) è una [equazione polinomiale](https://it.wikipedia.org/wiki/Equazione_algebrica) il cui grado massimo dell'incognita è $2$. In generale un'equazione di 2° grado può essere ricondotta nella forma:
 
 ```{math}
 ax^2+bx+c=0 \qquad a \neq 0
