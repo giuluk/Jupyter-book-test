@@ -40,7 +40,7 @@ Un gruppo di numeri interi si dicono **coprimi** se il loro unico divisore, inte
 
 Questi accorgimenti non sono necessari ma consentono di avere equazioni 'comode' con le quali poter operare.
 
-```{prf:example}
+````{prf:example}
 Ricondurre l'equazione $-\dfrac{6}{5}x^2+4x-\dfrac{2}{3}=0$ in un'equazione polinomiale a coefficienti interi.
 
 Dato che:
