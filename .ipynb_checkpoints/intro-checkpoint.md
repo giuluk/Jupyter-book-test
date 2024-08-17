@@ -1,4 +1,5 @@
 # Soluzioni razionali delle equazioni di 2° grado
+
 ```{warning}
 Il presente documento è da considerarsi una bozza in fase di sviluppo e potrebbe contenere errori o imprecisioni.
 ```
